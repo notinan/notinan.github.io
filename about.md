@@ -7,9 +7,8 @@ permalink: /about/
 Some information about you!
 
 ### More Information
+My name is Ryan Ryan Gill, I am a pansexual. 
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+ 000032010@student.thomroth.ac.uk
