@@ -4,7 +4,10 @@ title: Variables!
 categories: C# Programming
 ---
 Today we used variables in our code yay us heres an example :
-            {
+           
+           
+           
+           {
                 const double PoundsToDollarRate = 1.23;
                 const double DollarsToPoundsRate = 0.81;
 
