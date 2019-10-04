@@ -4,6 +4,8 @@ title: Variables!
 categories: C# Programming
 ---
 Today we used variables in our code yay us heres an example :
+
+A varaiable is a variable is a value that can change, depending on conditions or on information passed to the program.
            
            
            
